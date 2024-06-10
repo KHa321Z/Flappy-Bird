@@ -1,0 +1,13 @@
+{
+    "makefile.makefilePath": ".\\build\\",
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "d:\\Code\\Flappy-Bird",
+            "binaryPath": "d:\\Code\\Flappy-Bird\\flappy_bird.exe",
+            "binaryArgs": []
+        }
+    ],
+    "C_Cpp.default.includePath": [
+        "${workspaceFolder}\\include"
+    ]
+}
